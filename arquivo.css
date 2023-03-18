@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif; background-color: black;	text-align: right;
+}
+h1 {
+    margin: 50px 0; text-align: center;
+    color: red;
+}
+ul {
+    list-style-type: none; padding: 0;	display: inline-block;	margin: 50px 0;	text-align: center; 
+}
+li {
+    margin: 20px 0;	font-size: 18px; color: blue ;text-align: left;
+}
+b {
+    font-size:30px; color: white; border-radius: 0cap;
+}
+a {
+    text-decoration: none;	color: green;
+}
